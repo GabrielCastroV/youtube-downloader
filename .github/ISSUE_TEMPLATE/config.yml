@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question / Discussion
+    url: https://github.com/GabrielCastroV/youtube-downloader/discussions
+    about: Ask questions and discuss the project here.
+  - name: yt-dlp issue
+    url: https://github.com/yt-dlp/yt-dlp/issues
+    about: If the download fails for a specific URL, the issue is likely in yt-dlp.
